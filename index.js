@@ -1,10 +1,7 @@
-// Sebbes ide: 
-
-
-
-
 let boxes_node_list = document.querySelectorAll(".box");
 let colors = ["red", "green", "orange", "blue", "purple", "brown", "black", "gray"];
+
+
 let the_index = 0;
 let box_arr = [];
 
